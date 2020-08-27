@@ -10,7 +10,7 @@
 
 - I’m looking to collaborate on **spectrium**
 
-- 🤝 I’m looking for help with **TinyML**
+- 🤝 I’m looking for help with **ADAS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhruvsheth-ai](https://github.com/dhruvsheth-ai)
 
