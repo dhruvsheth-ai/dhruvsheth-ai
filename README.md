@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvsheth-ai" alt="dhruvsheth-ai" /> </p>
 
-- 🔭 I’m currently working on **spectrium**
+- 🔭 I’m currently working on **EleTect**
 
 - 🌱 I’m currently learning **Autonomous Driving Systems, CNN architectures and Frameworks**
 
