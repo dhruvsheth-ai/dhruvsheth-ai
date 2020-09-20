@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Dhruv Sheth</h1>
+<h1 align="center">Hello, I'm Dhruv Sheth🖖</h1>
 
 <h3 align="center">Making prototypes based on IoT, Machine Learning and ROS</h3>
 
