@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvsheth-ai" alt="dhruvsheth-ai" /> </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+![](https://hackster.imgix.net/uploads/attachments/1188705/_ZNEbt13SJe.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
 
 
 - 🔭 I’m currently working on **Embedded Machine Learning, FreeRTOS**
