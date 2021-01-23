@@ -14,3 +14,6 @@
 
 </p>
 
+## &#x1f4c8; GitHub Stats
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvsheth-ai" alt="dhruvsheth-ai" /></a> </p>
