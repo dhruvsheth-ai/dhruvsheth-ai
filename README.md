@@ -12,6 +12,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dhruvsheth_?label=Follow)](https://twitter.com/dhruvsheth_)
 [![Linkedin: robmarkcole](https://img.shields.io/badge/-Dhruv%20Sheth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-sheth-567550160/)](https://www.linkedin.com/in/dhruv-sheth-567550160/)
-![Profile views](https://gpvc.arturio.dev/dhruvsheth-ai)
+
 
 * [Hackster profile](https://www.hackster.io/dhruvsheth_)
