@@ -1,7 +1,7 @@
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Dhruv Sheth</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvsheth-ai" alt="dhruvsheth-ai" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabpot" alt="fabpot" /> </p>
+
 
 
 - I’m currently working on **Embedded Machine Learning, Computer Vision, SpatialAI**
