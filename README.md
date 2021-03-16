@@ -17,6 +17,3 @@
 
 
 * [Hackster profile](https://www.hackster.io/dhruvsheth_)
-
-
-$$I = \int \rho R^{2} dV$$
